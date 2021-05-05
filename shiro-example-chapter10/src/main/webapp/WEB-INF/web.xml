@@ -6,6 +6,9 @@
         version="3.0"
         metadata-complete="false">
 
+    <welcome-file-list>
+        <welcome-file>/login.jsp</welcome-file>
+    </welcome-file-list>
     <!--- shiro 1.2 -->
     <listener>
         <listener-class>org.apache.shiro.web.env.EnvironmentLoaderListener</listener-class>
