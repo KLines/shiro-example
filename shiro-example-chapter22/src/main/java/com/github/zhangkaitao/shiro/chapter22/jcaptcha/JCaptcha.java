@@ -5,7 +5,7 @@
  */
 package com.github.zhangkaitao.shiro.chapter22.jcaptcha;
 
-import com.octo.captcha.service.CaptchaServiceException;
+//import com.octo.captcha.service.CaptchaServiceException;
 import com.octo.captcha.service.captchastore.FastHashMapCaptchaStore;
 
 import javax.servlet.http.HttpServletRequest;
